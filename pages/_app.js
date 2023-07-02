@@ -6,7 +6,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <title>Timefold Design - UI Design & Interactive Website</title>
+        <title>Timefold Design</title>
         <link rel="icon" href="/icon.png" />
       </Head>
       <main className="main-container">
