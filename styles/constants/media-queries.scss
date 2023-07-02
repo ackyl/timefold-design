@@ -1,0 +1,7 @@
+$screen-md-min: 960px;
+
+@mixin sm {
+  @media screen and (max-width: #{$screen-md-min}) {
+    @content;
+  }
+}
